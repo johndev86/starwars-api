@@ -1,0 +1,11 @@
+{
+    "url": "https://swapi.co/api/",
+    "card_display": {
+        "people": ["name", "birth_year", "gender", "height", "mass"],
+        "films": ["title", "episode_id", "director", "producer", "release_date"],
+        "starships": ["name", "model", "starship_class", "manufacturer", "length", "crew"],
+        "vehicles": ["name", "model", "vehicle_class", "manufacturer", "length", "crew"],
+        "species": ["name", "classification", "designation", "average_height", "average_lifespan", "language"],
+        "planets": ["name", "diameter", "rotation_period", "gravity", "population", "climate", "terrain"]
+    }
+}
